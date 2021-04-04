@@ -9,7 +9,7 @@ as recommended by the [blog post](https://blog.tryhackme.com/free_path/) from Tr
 - [x] Intro to Researching https://tryhackme.com/room/introtoresearch
 - [x] The Hacker Methodology https://tryhackme.com/room/hackermethodology
 - [x] Learn Linux https://tryhackme.com/module/linux-fundamentals
-- [ ] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
+- [x] Crash Course Pentesting https://tryhackme.com/room/ccpentesting
 
 **Introductory CTFs to get your feet wet**
 
