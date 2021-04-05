@@ -73,7 +73,7 @@ commands in it; `su`, `sudo su`, `exit`.
 
 So, I tried running `sudo su`, and BAM!
 
-<img src="./images/root_users.png" alt="Root User"/>
+<img src="./images/root_user.png" alt="Root User"/>
 
 After gaining root access, I did `ls /root/` and there is the precious gem
 waiting to be `cat`ed.
