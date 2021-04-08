@@ -23,7 +23,7 @@ as recommended by the [blog post](https://blog.tryhackme.com/free_path/) from Tr
 - [x] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [x] Sublist3r https://tryhackme.com/room/rpsublist3r
 - [x] Metasploit https://tryhackme.com/room/rpmetasploit
-- [ ] Hydra https://tryhackme.com/room/hydra
+- [x] Hydra https://tryhackme.com/room/hydra
 - [ ] Linux Privesc https://tryhackme.com/room/linuxprivesc
 - [ ] Web Scanning https://tryhackme.com/room/rpwebscanning
 - [ ] Shodan https://tryhackme.com/room/shodan
